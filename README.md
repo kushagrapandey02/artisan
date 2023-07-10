@@ -1,4 +1,4 @@
-# Artisan - Aritist Collaboration, Simplified!
+# Artisan - Artist Collaboration, Redefined!
 
 ## Description
 Artisan is an online platform designed to bring together budding artists, musicians, and bands, providing them with a collaborative space to connect, create, and succeed in the music industry. It serves as a specialized version of LinkedIn, exclusively tailored for artists, empowering them to easily produce the music they envision.
