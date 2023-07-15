@@ -48,7 +48,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Contact
-For any questions or feedback regarding GurU, feel free to reach out to the project creator:
+For any questions or feedback regarding artisan, feel free to reach out to the project creator:
 
 Name: Kushagra Pandey
 
